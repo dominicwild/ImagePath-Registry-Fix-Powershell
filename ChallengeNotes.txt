@@ -1,0 +1,3 @@
+Make a script that removes spaces from windows registry keys in services, in the image path, as this is a vulnerability in windows. 
+
+Must keep in mind that some services have arguments passed to them and these spaces will be detected by regex, therefore must place back the arguments
